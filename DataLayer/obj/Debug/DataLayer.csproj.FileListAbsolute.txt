@@ -1,0 +1,10 @@
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\bin\Debug\DataLayer.dll.config
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\bin\Debug\DataLayer.dll
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\bin\Debug\DataLayer.pdb
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\bin\Debug\EntityFramework.dll
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\bin\Debug\EntityFramework.xml
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\obj\Debug\DataLayer.dll
+E:\Study Material\Practice\WebAPI\WebAPI2_Test\DataLayer\obj\Debug\DataLayer.pdb
