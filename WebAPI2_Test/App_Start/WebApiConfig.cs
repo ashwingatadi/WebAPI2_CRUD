@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace WebAPI2_Test
 {
@@ -20,6 +21,8 @@ namespace WebAPI2_Test
                 defaults: new { id = RouteParameter.Optional }
             );
 
+            EnableCorsAttribute cors = new EnableCorsAttribute("*", "*", "*");
+            config.EnableCors(cors);
             //config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new System.Net.Http.Headers.MediaTypeHeaderValue("application/html"));
             //config.Formatters.Remove(config.Formatters.XmlFormatter);
             //config.Formatters.JsonFormatter.SerializerSettings.Formatting = Newtonsoft.Json.Formatting.Indented;
